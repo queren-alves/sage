@@ -17,8 +17,6 @@
 
 ## 1. Descrição
 
-<br />
-
 Este projeto é um sistema em console desenvolvido em Java, criado para gerenciar dispositivos, sensores, ambientes e blocos com foco em eficiência energética e apoio ao ODS 7 da ONU.
 
 O sistema controla automaticamente o acionamento de dispositivos conforme a detecção de presença por sensores e permite que administradores gerenciem toda a estrutura de forma simples e organizada. Usuários comuns têm acesso a consultas e relatórios de consumo energético, incluindo tempo de uso dos dispositivos e impacto da geração de energia por painéis solares.
@@ -37,8 +35,6 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 <br />
 
 ## 2. Funcionalidades do Projeto
-
-<br />
 
 ### 👨‍💼  Administrador
 
@@ -138,8 +134,6 @@ Este projeto está alinhado ao **Objetivo de Desenvolvimento Sustentável
 
 ## 4. Requisitos
 
-<br />
-
 Para executar os códigos localmente, você precisará de:
 
 - [Java JDK 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
@@ -148,8 +142,6 @@ Para executar os códigos localmente, você precisará de:
 <br />
 
 ## 5. Como Executar o projeto no Eclipse/STS
-
-<br />
 
 ### 5.1. Importando o Projeto
 
@@ -166,8 +158,6 @@ git clone https://github.com/queren-alves/sage.git
 6. O Eclipse/STS reconhecerá automaticamente o projeto
 7. Marque o Projeto Conta Bancária no item **Projects** e clique no botão **Finish** para concluir a importação
 
-<br />
-
 ### 5.2. Executando o projeto
 
 1. Na guia **Package Explorer**, localize o Projeto Conta Bancária
@@ -180,8 +170,6 @@ git clone https://github.com/queren-alves/sage.git
 
 ## 6. Contribuição
 
-<br />
-
 Este repositório é parte de um projeto educacional, mas contribuições são sempre bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para:
 
 - Criar uma **issue**
@@ -191,7 +179,5 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 <br />
 
 ##  9. Contato
-
-<br />
 
 Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue.
