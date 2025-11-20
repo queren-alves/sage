@@ -178,6 +178,6 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 <br />
 
-##  9. Contato
+##  7. Contato
 
 Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue.
